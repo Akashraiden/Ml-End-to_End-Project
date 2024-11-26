@@ -7,9 +7,10 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.Data_files
-.data_clean.csv
-.superstore.scv
+Data_files/
+
+notebook/data/data_clean.csv
+notebook/data/superstore.csv
 .Python
 build/
 develop-eggs/
