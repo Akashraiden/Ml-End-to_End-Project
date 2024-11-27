@@ -7,8 +7,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-Data_files/
-
+Data_files/data.csv/
+Data_files/test.csv/
+Data_files/train.csv/
 notebook/data/data_clean.csv
 notebook/data/superstore.csv
 .Python
